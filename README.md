@@ -2,10 +2,10 @@
 ## Run the commands to start the application:
 ### Clone a repository:
 
-    git clone https://github.com/DevFromSiberia/comment_system_on_typescript.git
+    git clone https://github.com/MariyaKhaidukova/comment-system-tsc.git
 ***
 ### Installing dependencies:
-    cd comment_system_on_typescript
+    cd comment-system-tsc
     npm install
 ***
 
