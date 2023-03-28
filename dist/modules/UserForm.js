@@ -57,7 +57,7 @@ class UserForm {
         if (this.sendBtn)
             this.sendBtn.classList.add('--disable');
         if (this.textarea)
-            this.textarea.style.height = '40px';
+            this.textarea.style.height = '21px';
     }
     focusTextarea() {
         if (this.textarea)

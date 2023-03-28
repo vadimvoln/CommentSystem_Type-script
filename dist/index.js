@@ -1,3 +1,3 @@
 "use strict";
 const commentSystem = new CommentSystem(); // Initialization of the commenting system
-commentSystem.createUser("defaultName", "https://picsum.photos/61");
+commentSystem.createUser("defaultName", "./assets/img/ava.png");
